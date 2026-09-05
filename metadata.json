@@ -1,0 +1,7 @@
+{
+  "name": "Forma Studio",
+  "description": "A full-screen video-background landing page with an interactive contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
